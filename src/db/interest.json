@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "icon": "/uploads/users/music.svg",
+        "title": "Music"
+    },
+    {
+        "id": 2,
+        "icon": "/uploads/users/fitness.svg",
+        "title": "Fitness"
+    },
+    {
+        "id": 3,
+        "icon": "/uploads/users/food.svg",
+        "title": "Food"
+    },
+    {
+        "id": 4,
+        "icon": "/uploads/users/tech.svg",
+        "title": "Tech"
+    },
+    {
+        "id": 5,
+        "icon": "/uploads/users/fashion.svg",
+        "title": "Fashion"
+    },
+    {
+        "id": 6,
+        "icon": "/uploads/users/travel.svg",
+        "title": "Travel"
+    },
+    {
+        "id": 7,
+        "icon": "/uploads/users/outdoor.svg",
+        "title": "Outdoor"
+    },
+    {
+        "id": 8,
+        "icon": "/uploads/users/DIY.svg",
+        "title": "DIY"
+    },
+    {
+        "id": 9,
+        "icon": "/uploads/users/homess.svg",
+        "title": "Houses"
+    },
+    {
+        "id": 10,
+        "icon": "/uploads/users/pet.svg",
+        "title": "Pets"
+    },
+    {
+        "id": 11,
+        "icon": "/uploads/users/movies.svg",
+        "title": "Movies"
+    },
+    {
+        "id": 12,
+        "icon": "/uploads/users/art.svg",
+        "title": "Art"
+    },
+    {
+        "id": 13,
+        "icon": "/uploads/users/career.svg",
+        "title": "Career"
+    },
+    {
+        "id": 14,
+        "icon": "/uploads/users/sports.svg",
+        "title": "Sports"
+    },
+    {
+        "id": 15,
+        "icon": "/uploads/users/book.svg",
+        "title": "Books"
+    },
+    {
+        "id": 16,
+        "icon": "/uploads/users/car.svg",
+        "title": "Cars"
+    },
+    {
+        "id": 17,
+        "icon": "/uploads/users/games.svg",
+        "title": "Games"
+    },
+    {
+        "id": 18,
+        "icon": "/uploads/users/shooping.svg",
+        "title": "Shopping"
+    },
+    {
+        "id": 19,
+        "icon": "/uploads/users/finance.svg",
+        "title": "Finance"
+    },
+    {
+        "id": 20,
+        "icon": "/uploads/users/investing.svg",
+        "title": "Investing"
+    }
+]
